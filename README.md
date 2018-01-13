@@ -1,5 +1,11 @@
 # cwebide
 
+--- 
+
+### 说明:
+
+基于[coding.net](http://coding.net) 的WebIde 修改，构建基于centos 的webide ，构建灵活，方便运行，更容易扩展。
+
 ### 构建镜像方法:
 
 docker build . -t cwebide
@@ -13,3 +19,7 @@ docker run -d -p <localip>:<localport>:8080 cwebide
 ### 成功运行截图:
 
 ![运行成功](ok.jpg)
+
+### 谢谢使用!
+
+
